@@ -1,0 +1,6 @@
+Linked list : 8 9 11 7 2 3 
+Delete 1st node : 9 11 7 2 3 
+Delete a specific index : 9 7 2 3 
+Delete the end node : 9 7 2 
+Deteting a specific value: 9 2 
+Deteting after a specific node : 9 

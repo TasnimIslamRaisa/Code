@@ -1,0 +1,8 @@
+pattern found at index  5
+Sub string = ohn
+After insertion = Joabhn cena
+After delete = Joena
+After deletemany = cdeg
+After replace = John ab
+Replace many = yycyyeyygyyeyy
+After rotation = n cenaJoh

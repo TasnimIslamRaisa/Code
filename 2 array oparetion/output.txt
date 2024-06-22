@@ -1,0 +1,6 @@
+Enter row 1 & column 1 : Enter number of 1st matrix : 
+Enter row 2 & column 2 : Enter number of 2nd matrix : 
+Multiplication of matrix : 
+2002153026 131 6422128 
+4199139 4201635 2 
+7543899 6422216 2002153214 
